@@ -136,5 +136,7 @@
       "system": "custom-system-builder",
       "flags": {}
     }
-  ]
+  ],
+"manifest": "https://github.com/Cybninja33/compendium-les-lames-du-cardinal/blob/main/module.json,
+  "download": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/my-content-module.zip"
 }
